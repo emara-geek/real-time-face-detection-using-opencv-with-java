@@ -1,4 +1,4 @@
-Real time Face Detection using OpenCV with Java (This code is not compatible with opencv 3)
+virtual Face Detectors (This code is not compatible with opencv 3)
 
 
 ![Alt text](http://s1.postimg.org/g9zf0ks1b/face_detection.jpg "Real Time Face Detection")
@@ -30,7 +30,7 @@ https://www.youtube.com/playlist?list=PLONz6FebFXOcKvYs0mm40eWgndxTRBwLc
    
 /////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
-   Website          :  http://www.emaraic.com 
+   Visit Now         :  http://www.emaraic.com 
 
    Linkedin Profile :  http://eg.linkedin.com/pub/taha-emara/a4/1ab/524/
 
